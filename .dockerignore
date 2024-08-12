@@ -1,0 +1,6 @@
+.nhost/data/nogit/minio/.minio.sys
+.nhost/data/nogit/minio/*
+.nhost/data/nogit/*
+.nhost/data/*
+.nhost/*
+
